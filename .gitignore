@@ -48,16 +48,6 @@ package-lock.json
 yarn.lock
 pnpm-lock.yaml
 
-# media exports
-*.mp4
-*.mov
-*.avi
-*.mkv
-*.webm
-
-# audio files
-*.mp3
-*.wav
 
 # generated assets
 .generated/
@@ -67,6 +57,3 @@ public/generated/
 .vercel/
 .wrangler/
 
-# misc
-*.zip
-*.rar
